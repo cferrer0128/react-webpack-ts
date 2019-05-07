@@ -19,9 +19,7 @@ npm install --save react react-dom
 ```
 npm install --save-dev webpack webpack-dev-server webpack-cli
 
-npm install --save-dev @babel/core babel-loader @babel/preset-react   @babel/preset-env @babel/plugin-proposal-class-properties
-
-npm install --save-dev html-webpack-plugin
+npm install --save-dev html-webpack-plugin 
 
 npm install --save-dev url-loader css-loader style-loader file-loader
 
